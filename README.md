@@ -1,10 +1,10 @@
-## !! UNMAINTAINED !! This package is no longer maintained
+## Fork for Laravel 8 support
 
-Please see [Issue #117](https://github.com/TomLingham/Laravel-Searchy/issues/117)
+Since the original Laravel-Searchy became unmaintenance. I forked it to make laravel 8 compatible by editing composer.json and necessary codes without any full testing, please use with caution.
 
-Here are some links to alternatives that you may be able to use (I do not guarantee the suitability or the quality of these projects, please ensure you do your own due dilligence in ensuring they meet your requirements):
+The most of original code, namespace, function name are left untouched.
 
-- *TODO*
+The original repo is here https://github.com/TomLingham/Laravel-Searchy
 
 ## Laravel 5+ Searchy
 
